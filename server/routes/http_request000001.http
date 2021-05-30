@@ -1,0 +1,27 @@
+POST http://localhost:3000/clients
+Content-Type: application/json
+
+{
+
+  "name": "서클스sldfksdlkfl",
+  "clientId": "slfksdlfksdkf",
+  "clientPwd": "slfksdlfksdkf",
+  "nickName":"slfksdlfksdkf",
+  "sex": "slfksdlfksdkf",
+  "phone": 12312312123
+}
+
+###
+
+POST http://localhost:3000/boards
+Content-Type: application/json
+
+{
+  "name": "123123123123123",
+  "contents": "서클스sldfksdlkfl",
+  "title": "서클스sldfksdlkfl",
+  "createDate": "20211201",
+  "pwd": "서클스sldfksdlkfl"
+}
+
+###

@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100;300;400;500;700;900&display=swap');
+
+body {
+    background: black !important;
+}
+
+.ion-page {
+    background-color: black;
+    max-width: 600px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 0 auto;
+}
+
+.white-grad {
+    background: linear-gradient(#ccc, #ccc) padding-box, /*this is your grey background*/ linear-gradient(to right, #9c20aa, #fb3570) border-box;
+    color: #313149;
+    border: 3px solid transparent;
+    border-radius: 50px;
+    display: inline-block;
+
+}
+
+.css-text-901oao {
+    color: white;
+}
+
+.parent {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+.child {
+    /*//flex: 1 0 30px; !* explanation below *!*/
+    flex: 1 1 30%; /*grow | shrink | basis */
+    margin: 0px;
+    padding: 0px;
+}
+
+.child2 {
+    display: flex;
+    background-color: red;
+    width: 450px;
+}
+
+.tabs-md .tabbar {
+    background: #00c6ff; /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #0072ff, #00c6ff); /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #0072ff, #00c6ff); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+root {
+    --ion-color-primary: #51ff33;
+    --ion-color-primary-rgb: 56, 128, 255;
+    --ion-color-primary-contrast: #ffffff;
+    --ion-color-primary-contrast-rgb: 255, 255, 255;
+    --ion-color-primary-shade: #3171e0;
+    --ion-color-primary-tint: #4c8dff;
+}
+
+
+.myModal .modal-wrapper {
+    --background: #ff5b32;
+    height: 500px;
+    margin: 0px;
+    position: absolute;
+    bottom: 0px;
+}
+
+

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">고경준 천재님앱</string>
+    <string name="title_activity_main">고경준 천재님앱</string>
+    <string name="package_name">com.jessicalabs.test000012345</string>
+    <string name="custom_url_scheme">com.jessicalabs.test000012345</string>
+    <string name="server_client_id">772105277078-skv77bjivos8089a1q10cco4prmt1kck.apps.googleusercontent.com</string>
+    <string name="admob_app_id">ca-app-pub-6826082357124500~7025145683</string>
+</resources>

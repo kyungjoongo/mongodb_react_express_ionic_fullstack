@@ -1,0 +1,62 @@
+POST http://localhost:5001/register
+Content-Type: application/json
+
+{
+  "firstName": "kyungjoon2",
+  "lastName": "kyungjoon2",
+  "address": "kyungjoon2",
+  "email": "kyungjoon2",
+  "country": "kyungjoon2",
+  "phone": 123123123,
+  "password": "kyungjoon2"
+}
+
+###
+
+POST http://localhost:5001/lawyers
+Content-Type: application/json
+
+{
+  "name": "고경준 천재님이십니디ㅏㄴ일ㅏsdlfklsdkf",
+  "userId": "123123",
+  "userPwd": "sdlkfsldkfs",
+  "nickName": "sdlkfsldkfs",
+  "sex": "sdlkfsldkfs",
+  "phone": 123123123
+}
+
+####
+
+DELETE http://localhost:8000/clients
+Content-Type: application/json
+
+
+
+### shorturl.at/mqQSY/clients
+
+POST http://34.64.126.115:8000/clients
+Content-Type: application/json
+
+{
+  "name": "김효즁챔임 돌아이같은놈 철없는놈2222~",
+  "clientId": "kyungjoongo222",
+  "clientPwd": "kyungjo23423ongo",
+  "nickName": "kyungjo234234ongo",
+  "sex": "kyungjoo234234432ngo",
+  "phone": 123123123123
+}
+
+
+
+###
+
+POST http://localhost:5001/board
+Content-Type: application/json
+
+{
+  "name": "김효즁2222~",
+  "contents": "김효즁~3333",
+  "title": "김효즁3333~444",
+  "createDate": "김효즁~7777",
+  "pwd": "김효즁5557777555~"
+}

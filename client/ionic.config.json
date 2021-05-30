@@ -1,0 +1,7 @@
+{
+    "name": "myApp22222_photo",
+    "integrations": {
+        "capacitor": {}
+    },
+    "type": "react"
+}

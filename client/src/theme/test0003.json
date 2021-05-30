@@ -1,0 +1,38 @@
+[
+    {
+        "_id": {
+            "$oid": "607a0b58f30fe51068c6e856"
+        },
+        "__v": 0,
+        "age": null,
+        "clientId": "kyungjoongo222",
+        "clientPwd": "kyungjo23423ongo",
+        "content": "asdfasdfasdf",
+        "date": {
+            "$date": "2021-04-16T22:10:32.333Z"
+        },
+        "image": "https://firebasestorage.googleapis.com/v0/b/pistagram1.appspot.com/o/0.301528271206311_Screen%20Shot%202021-03-23%20at%206.48.08%20PM.png?alt=media&token=52891b75-6f94-4b50-b254-5ce2adaddd9d",
+        "name": "adsfasdfasd",
+        "nickName": "kyungjo234234ongo",
+        "phone": 123123123123,
+        "sex": "kyungjoo234234432ngo"
+    },
+    {
+        "_id": {
+            "$oid": "607a0c65f30fe51068c6e857"
+        },
+        "__v": 0,
+        "age": 0,
+        "clientId": "kyungjoongo222",
+        "clientPwd": "kyungjo23423ongo",
+        "content": "",
+        "date": {
+            "$date": "2021-04-16T22:15:01.801Z"
+        },
+        "image": "https://firebasestorage.googleapis.com/v0/b/pistagram1.appspot.com/o/0.21819138345397016_Screen%20Shot%202021-04-02%20at%209.26.35%20PM.png?alt=media&token=b7244a82-3eac-4336-b0fd-48efe1369ea2",
+        "name": "",
+        "nickName": "kyungjo234234ongo",
+        "phone": 123123123123,
+        "sex": "kyungjoo234234432ngo"
+    }
+]
